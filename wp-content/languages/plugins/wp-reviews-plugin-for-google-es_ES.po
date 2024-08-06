@@ -1,0 +1,32 @@
+# Translation of Plugins - Widgets for Google Reviews - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Widgets for Google Reviews - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-31 18:06:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Widgets for Google Reviews - Development (trunk)\n"
+
+#. Description of the plugin
+msgid "Embed Google reviews fast and easily into your WordPress site. Increase SEO, trust and sales using Google reviews."
+msgstr "Incrusta reseñas de Google rápida y fácilmente en su sitio WordPress. Aumenta el SEO, la confianza y las ventas usando las reseñas de Google."
+
+#. Plugin Name of the plugin
+msgid "Widgets for Google Reviews"
+msgstr "Widgets para reseñas de Google"
+
+#. Author URI of the plugin
+msgid "https://www.trustindex.io/"
+msgstr "https://www.trustindex.io/"
+
+#. Author of the plugin
+msgid "Trustindex.io <support@trustindex.io>"
+msgstr "Trustindex.io <support@trustindex.io>"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wp-reviews-plugin-for-google/"
+msgstr "https://es.wordpress.org/plugins/wp-reviews-plugin-for-google/"

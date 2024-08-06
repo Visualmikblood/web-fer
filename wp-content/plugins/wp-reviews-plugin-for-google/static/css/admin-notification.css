@@ -1,0 +1,31 @@
+.trustindex-popup {
+  position: fixed !important;
+  top: 50px;
+  right: 20px;
+  padding-right: 30px;
+  z-index: 1;
+  width: auto;
+}
+
+.trustindex-notification-row a { text-decoration: none }
+
+.ti-button-primary {
+  background-color: #1a976a !important;
+  border-color: #1a976a !important;
+}
+
+.ti-button-primary:hover {
+  background-color: #136b4b !important;
+  border-color: #136b4b !important;
+}
+
+.ti-button-default {
+  background-color: #e6e6ec !important;
+  border-color: #e6e6ec !important;
+  color: #3b404b !important;
+}
+
+.ti-button-default:hover {
+  background-color: #c9c9d6 !important;
+  border-color: #c9c9d6 !important;
+}

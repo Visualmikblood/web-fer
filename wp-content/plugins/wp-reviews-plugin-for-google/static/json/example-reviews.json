@@ -1,0 +1,52 @@
+[
+	{
+		"name": "Baxter Jones",
+		"text": "Great review plugin, easy to setup and install. Pull all your Google reviews easily. Once you have your Google place ID it works straight out of the box.",
+		"image": "reviewer-01.jpg"
+	},
+	{
+		"name": "John Parker",
+		"text": "Stop looking anywhere else! This is just a top notch plug-in. It just couldn't be any easier, and a great choice of options for styling etc. Pretty incredible really!",
+		"image": "reviewer-02.jpg"
+	},
+	{
+		"name": "Allie Pereira",
+		"text": "Easy to install with no complicated Google API or other external details needed... does the job if you want a simple feed coming through. Very happy with it.",
+		"image": "reviewer-03.jpg"
+	},
+	{
+		"name": "Ethan Cox",
+		"text": "The only plugin which reflects your reviews and what your clients say about you. As a result, your sales grow! Recommend this one because I was searching a lot but didn't find any analogues.",
+		"image": "reviewer-04.jpg"
+	},
+	{
+		"name": "Linda Lewis",
+		"text": "I needed a simple plugin to add great looking reviews to my clients site. I was up and running in minutes. Super simple to connect to Google and style the look and feel of the reviews.",
+		"image": "reviewer-05.jpg"
+	},
+	{
+		"name": "Olivia Bennett",
+		"text": "Very well thought out plugin. Don't even think about looking for another plugin. Easy, fast and not complicated at all. Tried a couple before, and they asked me for 100 things to do before installing them... Have it on all my sites.",
+		"image": "reviewer-06.jpg"
+	},
+	{
+		"name": "Melvin Brea",
+		"text": "It is an excellent plugin to integrate your Google My Business reputation. Beautiful, simple, versatile and easy to use. Great tool to boost your business.",
+		"image": "reviewer-07.jpg"
+	},
+	{
+		"name": "Grabowski",
+		"text": "Was looking for a plugin to show my rating on Google and found this one. Very easy to set up. Just a couple of minutes and you are done. Highly recommended.",
+		"image": "reviewer-08.jpg"
+	},
+	{
+		"name": "Essan Dee",
+		"text": "I can highly recommend this plugin, it takes out all the hard slog of managing some critical security functions, and it's free which is great.",
+		"image": "reviewer-09.jpg"
+	},
+	{
+		"name": "David Johnson",
+		"text": "I use it for a full page on my website. I not technical, but found install and setup super easy. Page is handsome and presents my reviews in an attractive, easy to read design.",
+		"image": "reviewer-10.jpg"
+	}
+]
